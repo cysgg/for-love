@@ -41,7 +41,7 @@
 }
 
 .lefttext{
-    text-align-last: left;
+    text-align: left;
 }
 
 .centertext{
@@ -51,7 +51,7 @@
 }
 
 .righttext{
-    text-align-last: right;
+    text-align: right;
 }
 .inputbox{
     position: fixed;
